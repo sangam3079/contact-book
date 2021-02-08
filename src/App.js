@@ -19,7 +19,6 @@ function App() {
                 <Route exact path ="/" component={Contacts} />
                 <Route exact path ="/addcontacts" component={AddContacts} />
               </Switch>
-              
             </div>
           </div>      
         </div>
